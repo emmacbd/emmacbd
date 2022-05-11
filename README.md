@@ -21,7 +21,7 @@ Software developer with a background in literature and linguistics, and experien
 
 I bring curiosity and compassion to my work and I understand the importance of empathetic problem-solving. I've developed the ability to listen and collaborate effectively with people from all walks of life. I believe as a software developer I can use these skills to build meaningful and intuitive tools that value developer empathy and advance accessibility for all.
 
-Outside of work I love rock climbing, music, and honing my improv skills!  
+Outside of work I love rock climbing, finding my next favorite band, and honing my improv skills!  
 
 
 
