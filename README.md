@@ -1,12 +1,7 @@
 ## Hey there 👋, I'm Emma!
   
 
-<a href="https://github.com/ecbrooked" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/emmacbd" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
+
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -27,6 +22,13 @@ Software developer with a background in literature and linguistics, and experien
 I bring curiosity and compassion to my work and I understand the importance of empathetic problem-solving. I've developed the ability to listen and collaborate effectively with people from all walks of life. I believe as a software developer I can use these skills to build meaningful and intuitive tools that value developer empathy and advance accessibility for all.
 
 Outside of work I love rock climbing, music, and honing my improv skills!  
+
+<a href="https://github.com/ecbrooked" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/emmacbd" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
 
 <p>
    <a href="https://www.linkedin.com/in/emmacbd/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
