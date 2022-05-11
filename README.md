@@ -10,7 +10,7 @@
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=JoeRupp&show_icons=true&theme=dark&hide_border=true"/>
+    <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=emmacbdp&show_icons=true&theme=dark&hide_border=true"/>
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=&layout=compact&theme=dark&hide_border=true"/>
@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=JoeRupp&style=flat-square&color=3CD218" alt="Profile view counter"/>
+  <img src="https://komarev.com/ghpvc/?username=emmacbd&style=flat-square&color=3CD218" alt="Profile view counter"/>
 </div>
 
 ## About Me:
