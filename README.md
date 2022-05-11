@@ -1,4 +1,4 @@
-## Hey 👋, I'm Emma!
+## Hey there 👋, I'm Emma!
   
 
 <a href="https://github.com/ecbrooked" target="_blank">
@@ -24,7 +24,7 @@
 ## About Me:
 Software developer with a background in literature and linguistics, and experience in a variety of forward-facing customer service roles. 
 
-I bring curiosity and compassion to my work and I understand the importance of empathetic problem-solving. I've developed the ability to listen and collaborate effectively with people from all walks of life and I believe as a software developer I can use these skills to build meaningful and intuitive tools.
+I bring curiosity and compassion to my work and I understand the importance of empathetic problem-solving. I've developed the ability to listen and collaborate effectively with people from all walks of life. I believe as a software developer I can use these skills to build meaningful and intuitive tools that value developer empathy and advance accessibility for all.
 
 Outside of work I love rock climbing, music, and honing my improv skills!  
 
