@@ -77,17 +77,6 @@ Outside of work I love rock climbing, finding my next favorite band, and honing 
   <img src="https://img.shields.io/badge/AGILE%20-2A82E2.svg?&style=for-the-badge&logo=AGILE&logoColor=white"/>
 </p>
 
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=emmacbd&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
